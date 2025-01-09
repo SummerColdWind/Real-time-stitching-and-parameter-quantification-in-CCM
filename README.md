@@ -11,6 +11,9 @@
 See the usage in `example.py`.
 
 The expected output is:
+
+---
+
 <img src="assets/img.png">
 
 `
